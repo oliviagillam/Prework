@@ -30,11 +30,12 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/oliviagillam/Prework/blob/main/ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](https://ezgif.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
 
 ## License
 
